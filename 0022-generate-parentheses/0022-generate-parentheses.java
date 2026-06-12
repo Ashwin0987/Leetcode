@@ -13,6 +13,5 @@ class Solution {
     public List<String> generateParenthesis(int n) {
         par(0,0,n,"");
         return l;
-
     }
 }
